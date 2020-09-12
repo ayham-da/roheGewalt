@@ -1,0 +1,32 @@
+
+.erfolg {
+  background: green;
+}
+
+.fail {
+  background: red;
+}
+
+.eingabe-gruppe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+
+.ausgabe-panel {
+  position: absolute;
+  top: 1.5em;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  overflow: auto;
+}
+
+.app {
+  position: fixed;
+  top: 1ch;
+  left: 1ch;
+  bottom: 1ch;
+  right: 1ch;
+}
